@@ -1,0 +1,11 @@
+{
+  "name": "smtp-relay",
+    "version": "1.0.0",
+      "description": "HTTP -> SMTP relay for Mailbox Panel",
+        "dependencies": {
+            "nodemailer": "^6.10.0"
+              },
+                "engines": {
+                    "node": ">=20"
+                      }
+                      }
